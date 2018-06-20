@@ -1,6 +1,6 @@
 # Image-Processing-Project
 
-[Educational Project](FCIH-Egypt)*
+[Educational Project] (FCIH-Egypt)*
 
 This project generates Salt and Pepper AND Gaussian Noises, and applies Low Pass Filter.
 
